@@ -10,6 +10,8 @@ const getPrice = async () => {
     return resolvedPromise.data.ticker.price;
 }
 
+// this is a test comment
+
 button.addEventListener('click', createLi);
 
 
